@@ -1,0 +1,54 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.paraplax-t h1 {
+    color: white;
+    font-size: 4rem;
+    font-family: 'DynaPuff', cursive;
+}
+
+.paraplax-1 {
+    width: 100%;
+    height: 320px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-image: url("/img/cafe.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+
+.tittle-3 {
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: 400;
+}
+
+.tittle-3 p {
+    color: #C9BBCF;
+}
+
+.cafe {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 30px;
+}
+
+.cafe-c {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.cafe-c img {
+    width: 300px;
+}
+
+.caf {
+    display: flex;
+    flex-direction: column;
+}

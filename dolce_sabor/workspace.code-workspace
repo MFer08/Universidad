@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../amore_vinos/landing_page /js"
+		}
+	],
+    "settings": {
+        "liveServer.settings.port": 5502,
+        "liveServer.settings.multiRootWorkspaceName": "dolce_sabor"
+    }
+}
