@@ -1,0 +1,34 @@
+.sct-11 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+    padding: 30px;
+}
+
+.sct-11 p {
+    padding: 10px;
+    font-size: 1.4rem;
+    font-weight: 200;
+    color: black;
+}
+
+.sct-12 {
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.btn-2 {
+    background-color: #F3950D;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    margin-top: 15px;
+    border: none;
+}
